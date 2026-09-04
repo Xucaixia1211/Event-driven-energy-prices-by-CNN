@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper."
+title: "Code for A convolutional framework for detecting event-driven dynamics in energy price series"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Caixia
+  - family-names: Fryzlewicz
+    given-names: Piotr
+version: 1.0.0
+date-released: 2026-09-05
+repository-code: "https://github.com/Xucaixia1211/Event-driven-energy-prices-by-CNN"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A convolutional framework for detecting event-driven dynamics in energy price series"
+  authors:
+    - family-names: Xu
+      given-names: Caixia
+    - family-names: Fryzlewicz
+      given-names: Piotr
+  year: 2026
+  url: "https://arxiv.org/abs/2609.00402"

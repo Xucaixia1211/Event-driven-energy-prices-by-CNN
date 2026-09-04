@@ -1,0 +1,6 @@
+scenario,oracle_comparator,count,frequency
+slope,slope,488,0.976
+slope,volatility,12,0.024
+volatility,volatility,500,1.0
+ar,ar,500,1.0
+mixed,volatility,500,1.0
